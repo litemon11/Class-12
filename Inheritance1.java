@@ -26,4 +26,4 @@ Specify the class Worker giving details of the constructor() and void display().
 inheritance specify the class Wages giving details of constructor(), double overtime() and void display().
 The main() function need not be written.
 */
-
+imp
